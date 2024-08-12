@@ -1,2 +1,2 @@
 # ToDo-List
-A ToDo List maker in which you can add/delete as well as strike out completed tasks.
+This project is a simple To-Do List application built with HTML, CSS, and JavaScript. The user interface is designed with a clean and modern look, with a raised background, centralized work storage, and intuitive input. Users can add tasks, mark them as complete with a strikethrough effect, or delete them with the ‘x’ button. The application also uses local storage to store transactions, so they remain available even after the browser is closed. The design is compact, allowing it to be used across a variety of devices and screen sizes.
